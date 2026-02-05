@@ -1,2 +1,2 @@
 helo pipol
-zis are my opencw projects
+zis are my projects
